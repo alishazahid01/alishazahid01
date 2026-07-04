@@ -1,0 +1,24 @@
+<svg width="900" height="230" viewBox="0 0 900 230" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58a6ff">
+        <animate attributeName="stop-color" values="#58a6ff;#00c9a7;#58a6ff" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#00c9a7">
+        <animate attributeName="stop-color" values="#00c9a7;#58a6ff;#00c9a7" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+  <g font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif">
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.8s" fill="freeze"/>
+      <text x="450" y="98" text-anchor="middle" font-size="58" font-weight="600" letter-spacing="1" fill="#e6edf3">Alisha Zahid</text>
+    </g>
+    <rect x="380" y="122" width="140" height="3" rx="1.5" fill="url(#accent)"/>
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.8s" begin="0.35s" fill="freeze"/>
+      <text x="450" y="164" text-anchor="middle" font-size="16.5" font-weight="600" letter-spacing="4.5" fill="#9198a1">BACKEND ENGINEER · PYTHON &amp; AI SYSTEMS</text>
+      <text x="450" y="196" text-anchor="middle" font-size="14" letter-spacing="0.5" fill="#7d8590">Building AI-driven localization platforms — Lahore, Pakistan</text>
+    </g>
+  </g>
+</svg>

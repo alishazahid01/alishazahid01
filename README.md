@@ -1,119 +1,96 @@
-<!-- Animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1155cc,50:6a5acd,100:00c9a7&height=200&section=header&text=Alisha%20Zahid&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Backend%20Developer%20%7C%20Python%20%7C%20AI-Driven%20Systems&descAlignY=75&descSize=20" width="100%" />
-
-<!-- Typing animation -->
 <div align="center">
-  <a href="https://github.com/alishazahid01">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=1155CC&center=true&vCenter=true&width=600&lines=Backend+Developer+(Python+%2F+Django);Building+AI-driven+localization+platforms;LLM+%2B+OCR+%2B+ASR+pipeline+integrations;Automation+Engineer+%7C+Security+Enthusiast" alt="Typing SVG" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alishazahid01/alishazahid01/main/assets/header-dark.svg">
+    <img src="https://raw.githubusercontent.com/alishazahid01/alishazahid01/main/assets/header-light.svg" alt="Alisha Zahid — Backend Engineer · Python & AI Systems" width="100%">
+  </picture>
+
+  <p>
+    <a href="mailto:alisha.engr01@gmail.com"><b>Email</b></a>
+    &nbsp;&nbsp;·&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/alishazahid"><b>LinkedIn</b></a>
+    &nbsp;&nbsp;·&nbsp;&nbsp;
+    <a href="https://github.com/alishazahid01?tab=repositories"><b>Repositories</b></a>
+  </p>
 </div>
 
-<div align="center">
+<br>
 
-  <a href="https://linkedin.com/in/alishazahid"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:alisha.engr01@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=alishazahid01&style=for-the-badge&color=1155cc" alt="Profile views" />
+## About
 
-</div>
+I build the backend of AI products — Django and FastAPI services that turn LLMs, OCR, and speech models into reliable production software. Currently a **Backend Developer at Aurix**, engineering localization platforms that process images, translations, and audio at scale.
 
----
+- **Architecture first** — service layers, documented API contracts (OpenAPI), explicit state machines, Celery/Redis pipelines
+- **AI in production, not demos** — AWS Bedrock, OpenAI, Google Gemini, Cloud Vision OCR, and Stability AI wired into real workflows
+- **Automation instinct, security roots** — 20+ open-source security tools; browser automation running hundreds of tasks daily
 
-## 🚀 About Me
+<sub><b>Now:</b> integrating LLM providers into a linguistic-QA pipeline &nbsp;·&nbsp; benchmarking ASR models with WER/CER metrics and LLM cross-review</sub>
 
-- 🔭 I'm a **Backend Developer (Python/Django)** building production services for **AI-driven localization platforms** — image localization, linguistic quality assurance, and speech-to-text evaluation
-- 🤖 I integrate **LLMs & AI APIs** into real products: AWS Bedrock, OpenAI, Google Gemini, Google Cloud Vision (OCR), Stability AI
-- ⚙️ I love **automation** — from Selenium + AsyncIO browser bots to Celery/Redis background pipelines
-- 🛡️ Cybersecurity roots — I've built 20+ Python security tools (IDS, port scanners, malware detection, WAF, forensics)
-- ⚡ I ship fast with **AI-assisted development** (Claude Code, MCP servers, Cursor) while owning architecture and code quality
-- 🎓 BSCS @ University of Management and Technology, Lahore
+<br>
 
----
+## Stack
 
-## 🛠️ Tech Stack
+|  |  |
+| ---: | :--- |
+| **Backend** | Python · Django · Django REST Framework · FastAPI · Flask · Celery |
+| **Data** | PostgreSQL · Redis · SQLAlchemy · Alembic · S3 / MinIO |
+| **AI & LLM** | AWS Bedrock · OpenAI · Google Gemini · Cloud Vision OCR · Stability AI · ElevenLabs / AssemblyAI |
+| **Infra** | Docker · Docker Compose · GCP · AWS · Linux · Git |
+| **Automation** | Selenium · AsyncIO · Web scraping · openpyxl |
+| **Familiar** | TypeScript · React · Java · C++ · Microsoft Power Platform |
 
-<div align="center">
+<br>
 
-### Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,java,cpp,js,ts,react&theme=dark" />
+## Featured Work
 
-### Databases, Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=postgres,redis,docker,aws,gcp,git,github,linux,selenium&theme=dark" />
+| Project | About | Built with |
+| :--- | :--- | :--- |
+| [**FinTrack**](https://github.com/alishazahid01/personal-finance-tracker) | Full-stack personal finance tracker — JWT auth, recurring expenses, service-layer architecture, Alembic migrations, Dockerized | `FastAPI` `React` `PostgreSQL` |
+| [**Security Toolkit**](https://github.com/alishazahid01?tab=repositories&q=&type=source&language=python) | 20+ open-source tools: network IDS, packet sniffer, port scanner, malware detection, WAF, digital forensics | `Python` `Scapy` `Sockets` |
+| **Darkweb Email Scraper** <sub>(private)</sub> | Final-year project — compromised-email detection for cyber-risk analysis with a privacy-first design | `Python` `Scraping` `AI` |
 
-<br/>
+<br>
 
-![Django REST Framework](https://img.shields.io/badge/DRF-ff1709?style=flat-square&logo=django&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
-![AWS Bedrock](https://img.shields.io/badge/AWS%20Bedrock-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger%2FOpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black)
-![JWT](https://img.shields.io/badge/JWT%20%26%20OAuth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20Platform-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+## Experience
 
-</div>
+**Backend Developer — Aurix** <sub>· 2026 – present</sub>
+Localization AI platforms <sub>(private repositories)</sub>:
+- **Mosaiq LQA** — linguistic quality-assurance platform: AWS Bedrock LLM provider, review-stage workflow engine (rollback / skip / complete), deterministic quality scoring
+- **Imvisio** — image localization pipeline: Gemini text-removal + OCR / inpainting preprocessing, vendor task state machine, client-facing reporting exports
+- **ASR evaluation** — harness comparing ElevenLabs Scribe v2 vs AssemblyAI Universal-3 with WER/CER metrics and an LLM cross-review reconciliation stage
 
----
+**Commercial Automation Engineer — Homeeasy LLC** <sub>· US, remote · 2024 – 2025</sub>
+AI browser automation (Gemini + Selenium + AsyncIO) submitting hundreds of B2B contact forms daily with robust error handling.
 
-## 📌 Featured Projects
+**Microsoft Power Platform Intern — Bilytica** <sub>· 2024</sub>
+Low-code process digitization: Power Apps, Power Automate approval flows, Power BI dashboards.
 
-| Project | Description | Tech |
-|---|---|---|
-| 💰 [**FinTrack**](https://github.com/alishazahid01/personal-finance-tracker) | Full-stack personal finance tracker with JWT auth, recurring expenses & Docker packaging — built end-to-end with AI tooling | FastAPI · React · PostgreSQL |
-| 🛡️ **Python Security Toolkit** | 20+ open-source security tools: [Network IDS](https://github.com/alishazahid01/Network-IDS), [Port Scanner](https://github.com/alishazahid01/Port-Scanner), [Malware Detection](https://github.com/alishazahid01/Malware-Detection), [WAF](https://github.com/alishazahid01/Web-Application-Firewall), [Digital Forensics](https://github.com/alishazahid01/Digital-Forensic) & more | Python · Scapy · Sockets |
-| 🕵️ **Darkweb Email Scraper** | Final-year project — compromised-email detection for cyber-risk analysis with privacy-first design | Python · Scraping · AI |
-| 🤖 [**WhatsApp Automation**](https://github.com/alishazahid01/Whatsapp-Automation) | Messaging automation workflows | Python · Selenium |
-| 📊 [**Sales Performance Analysis**](https://github.com/alishazahid01/sales-performance-analysis) | Data analysis of sales KPIs | Python · Pandas |
+<br>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=alishazahid01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=00c9a7&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alishazahid01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1f6feb&langs_count=8" alt="Top languages" />
-
-  <br/><br/>
-
-  <img src="https://streak-stats.demolab.com/?user=alishazahid01&theme=tokyonight&hide_border=true&background=0d1117&ring=1f6feb&fire=00c9a7&currStreakLabel=1f6feb" alt="GitHub streak" />
-
-  <br/><br/>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alishazahid01&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=1f6feb&line=00c9a7&point=ffffff&area=true" width="95%" alt="Contribution graph" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alishazahid01&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies" />
-</div>
-
----
-
-## 🐍 Contribution Snake
+## GitHub
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alishazahid01/alishazahid01/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alishazahid01/alishazahid01/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/alishazahid01/alishazahid01/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=alishazahid01&show_icons=true&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=9198a1&icon_color=00c9a7&hide_title=true&hide_rank=true">
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=alishazahid01&show_icons=true&hide_border=true&bg_color=00000000&title_color=1f6feb&text_color=57606a&icon_color=00c9a7&hide_title=true&hide_rank=true" alt="GitHub stats">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alishazahid01&layout=compact&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=9198a1&langs_count=6&hide_title=true">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alishazahid01&layout=compact&hide_border=true&bg_color=00000000&title_color=1f6feb&text_color=57606a&langs_count=6&hide_title=true" alt="Top languages">
   </picture>
 </div>
 
----
+<br>
+
+## Education & Credentials
+
+**BS Computer Science** — University of Management and Technology, Lahore <sub>· 2020 – 2024</sub>
+<sub>Google Cybersecurity Specialization (Coursera) · Intermediate Python (DataCamp) · Introduction to Web APIs (LinkedIn Learning)</sub>
+
+<br>
 
 <div align="center">
-
-  ### 💬 Let's build something together!
-
-  <a href="https://linkedin.com/in/alishazahid"><img src="https://img.shields.io/badge/-alishazahid-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:alisha.engr01@gmail.com"><img src="https://img.shields.io/badge/-alisha.engr01@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-
+  <img src="https://raw.githubusercontent.com/alishazahid01/alishazahid01/main/assets/line.svg" width="100%" alt="">
+  <br><br>
+  <sub>Open to backend & AI engineering opportunities — <a href="mailto:alisha.engr01@gmail.com"><b>say hello</b></a>.</sub>
+  <br><br>
 </div>
-
-<!-- Animated footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9a7,50:6a5acd,100:1155cc&height=120&section=footer" width="100%" />
