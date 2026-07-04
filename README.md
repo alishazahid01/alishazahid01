@@ -70,13 +70,11 @@ Low-code process digitization: Power Apps, Power Automate approval flows, Power 
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=alishazahid01&show_icons=true&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=9198a1&icon_color=00c9a7&hide_title=true&hide_rank=true">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=alishazahid01&show_icons=true&hide_border=true&bg_color=00000000&title_color=1f6feb&text_color=57606a&icon_color=00c9a7&hide_title=true&hide_rank=true" alt="GitHub stats">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alishazahid01/alishazahid01/main/assets/stats-dark.svg">
+    <img src="https://raw.githubusercontent.com/alishazahid01/alishazahid01/main/assets/stats-light.svg" alt="GitHub statistics — contributions, stars, repositories, followers, and language breakdown" width="100%">
   </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=alishazahid01&layout=compact&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=9198a1&langs_count=6&hide_title=true">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alishazahid01&layout=compact&hide_border=true&bg_color=00000000&title_color=1f6feb&text_color=57606a&langs_count=6&hide_title=true" alt="Top languages">
-  </picture>
+  <br>
+  <sub>Refreshed daily via GitHub Actions — rendered in this profile's own design system, no third-party card services.</sub>
 </div>
 
 <br>
