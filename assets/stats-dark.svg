@@ -9,14 +9,14 @@
 <text x="720" y="46" text-anchor="middle" font-size="30" font-weight="650" fill="#e6edf3">2</text>
 <text x="720" y="70" text-anchor="middle" font-size="10.5" font-weight="600" letter-spacing="1.6" fill="#9198a1">FOLLOWERS</text>
 <clipPath id="bar"><rect x="40" y="92" width="820" height="8" rx="4"/></clipPath>
-<rect x="40.0" y="92" width="451.4" height="8" fill="#3572A5" clip-path="url(#bar)"/>
-<rect x="491.4" y="92" width="328.7" height="8" fill="#f1e05a" clip-path="url(#bar)"/>
-<rect x="820.1" y="92" width="15.4" height="8" fill="#663399" clip-path="url(#bar)"/>
-<rect x="835.5" y="92" width="12.3" height="8" fill="#b07219" clip-path="url(#bar)"/>
-<rect x="847.8" y="92" width="9.4" height="8" fill="#00ADD8" clip-path="url(#bar)"/>
-<rect x="857.1" y="92" width="2.9" height="8" fill="#9198a1" opacity="0.25" clip-path="url(#bar)"/>
+<rect x="40.0" y="92" width="455.3" height="8" fill="#3572A5" clip-path="url(#bar)"/>
+<rect x="495.3" y="92" width="325.2" height="8" fill="#f1e05a" clip-path="url(#bar)"/>
+<rect x="820.5" y="92" width="15.3" height="8" fill="#663399" clip-path="url(#bar)"/>
+<rect x="835.8" y="92" width="12.1" height="8" fill="#b07219" clip-path="url(#bar)"/>
+<rect x="847.9" y="92" width="9.3" height="8" fill="#00ADD8" clip-path="url(#bar)"/>
+<rect x="857.2" y="92" width="2.8" height="8" fill="#9198a1" opacity="0.25" clip-path="url(#bar)"/>
 <circle cx="108.0" cy="126" r="4.5" fill="#3572A5"/>
-<text x="150" y="130" text-anchor="middle" font-size="12" fill="#9198a1">Python 55%</text>
+<text x="150" y="130" text-anchor="middle" font-size="12" fill="#9198a1">Python 56%</text>
 <circle cx="245.2" cy="126" r="4.5" fill="#f1e05a"/>
 <text x="300" y="130" text-anchor="middle" font-size="12" fill="#9198a1">JavaScript 40%</text>
 <circle cx="420.8" cy="126" r="4.5" fill="#663399"/>
